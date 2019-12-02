@@ -1,4 +1,6 @@
 The rainbow
 red 
 orange
+yellow
+Blue
 green 
